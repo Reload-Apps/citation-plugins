@@ -1,0 +1,19 @@
+{
+  "name": "citation",
+  "displayName": "Citation",
+  "version": "0.1.0",
+  "description": "Work with saved research, drafts, sources and references in Citation.",
+  "author": {
+    "name": "Citation",
+    "email": "alptekin@citation.co"
+  },
+  "homepage": "https://citation.co/",
+  "license": "MIT",
+  "keywords": [
+    "citation",
+    "citation.co"
+  ],
+  "logo": "assets/citation.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

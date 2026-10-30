@@ -1,0 +1,18 @@
+{
+  "name": "citation",
+  "owner": {
+    "name": "Citation",
+    "email": "alptekin@citation.co"
+  },
+  "metadata": {
+    "description": "Official Citation research and writing plugin",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "citation",
+      "source": ".",
+      "description": "Work with saved research, drafts, sources and references in Citation."
+    }
+  ]
+}

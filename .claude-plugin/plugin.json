@@ -1,0 +1,22 @@
+{
+  "name": "citation",
+  "version": "0.1.0",
+  "description": "Work with saved research, drafts, sources and references in Citation.",
+  "author": {
+    "name": "Citation",
+    "url": "https://citation.co/"
+  },
+  "homepage": "https://citation.co/",
+  "keywords": [
+    "citation",
+    "citation.co"
+  ],
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": {
+    "citation": {
+      "type": "http",
+      "url": "https://citation.co/mcp"
+    }
+  }
+}
